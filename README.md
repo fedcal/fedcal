@@ -13,4 +13,4 @@ Il mio stack tecnologico comprende:
 - MongoDb
 - Python
 
-Inoltre mi affascina molto la divulgazione scientifica, per questo nel mio sito ho creato una piccola sezione (blog)[www.federicocalo.dev/blog]
+Inoltre mi affascina molto la divulgazione scientifica, per questo nel mio sito ho creato una piccola sezione [blog](www.federicocalo.dev/blog)

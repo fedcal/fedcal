@@ -158,22 +158,6 @@ Credo nella condivisione della conoscenza: nel mio [blog](https://www.federicoca
   </picture>
 </div>
 
-<details>
-  <summary><b>Statistiche dettagliate</b></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fedcal&theme=tokyonight" alt="Contribution Graph" />
-  </div>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fedcal&theme=tokyonight" alt="Repos per Language" height="180" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fedcal&theme=tokyonight" alt="Most Commit Language" height="180" />
-  </div>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fedcal&theme=tokyonight" alt="Stats" height="180" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fedcal&theme=tokyonight&utcOffset=1" alt="Productive Time" height="180" />
-  </div>
-</details>
-
 ---
 
 <div align="center">

@@ -138,11 +138,41 @@ Credo nella condivisione della conoscenza: nel mio [blog](https://www.federicoca
 ## GitHub Stats
 
 <div align="center">
-
-![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedcal&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedcal&layout=compact&theme=tokyonight&hide_border=true)
-
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=fedcal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=fedcal&show_icons=true&theme=default&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fedcal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Federico's GitHub Stats" height="180" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fedcal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fedcal&layout=compact&theme=default&hide_border=true&langs_count=8" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedcal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  </picture>
 </div>
+
+<div align="center">
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=fedcal&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://streak-stats.demolab.com?user=fedcal&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://streak-stats.demolab.com?user=fedcal&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  </picture>
+</div>
+
+<details>
+  <summary><b>Statistiche dettagliate</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fedcal&theme=tokyonight" alt="Contribution Graph" />
+  </div>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fedcal&theme=tokyonight" alt="Repos per Language" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fedcal&theme=tokyonight" alt="Most Commit Language" height="180" />
+  </div>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fedcal&theme=tokyonight" alt="Stats" height="180" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fedcal&theme=tokyonight&utcOffset=1" alt="Productive Time" height="180" />
+  </div>
+</details>
 
 ---
 
@@ -152,6 +182,15 @@ Credo nella condivisione della conoscenza: nel mio [blog](https://www.federicoca
 
 [![Website](https://img.shields.io/badge/federicocalo.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.federicocalo.dev)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.federicocalo.dev/blog)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fedcal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-calo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fedcal01@gmail.com)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=fedcal&color=1a1b27&style=flat-square&label=Profile+Views)
+
+<br />
+
+*"Il codice è poesia che risolve problemi."*
 
 </div>
